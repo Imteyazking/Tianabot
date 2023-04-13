@@ -78,7 +78,7 @@ $ cp sample.env .env
 $ bash start
 ```
 
-</details>
+</details>  
 
 ## Contact & Support
 
