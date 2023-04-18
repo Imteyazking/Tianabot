@@ -4,7 +4,7 @@
     A Telegram Powerfull Group Managment Bot written in Python using Pyrogram and Telethon.
 </h4>
 <p align="center">
-    <a href="https://t.me/Tiana_Prince_Bot"> Ready-To-Use Bot </a> •
+    <a href="https://github.com/Imteyazking/Tianabot/blob/main/app.json"> Ready-To-Use Bot </a> •
     <a href="http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1"> Documentation </a> •
     <a href="https://t.me/TianaxUpdates"> Update Channel </a> •
     <a href="https://t.me/TianaxSupport"> Support Chat </a> 
